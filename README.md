@@ -1,122 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ayush Patokar</h1>
+# 💫 About Me:
+Generate a professional and modern GitHub Profile README for me using the following information.<br><br># Personal Information<br><br>Name: Ayush Patokar<br><br>Role: Final-Year Computer Science & Engineering Student<br><br>Career Goal: Software Engineer / Full Stack Developer<br><br>Location: India<br><br># About Me<br><br>I am a final-year Computer Science & Engineering student passionate about software development, problem solving, and building real-world applications. I enjoy learning modern web technologies and continuously improving my development skills.<br><br>I am currently focused on becoming a strong Full Stack Developer and Software Engineer by building projects, practicing Data Structures & Algorithms, and learning backend development.<br><br># Education<br><br>Bachelor of Engineering (B.E.) in Computer Science & Engineering<br><br>Final-Year Student<br><br># Tech Skills<br><br>Programming Languages:<br><br>* Java<br>* JavaScript<br>* SQL<br><br>Frontend:<br><br>* HTML<br>* CSS<br>* JavaScript<br>* React.js<br><br>Backend:<br><br>* Node.js<br>* Express.js<br>* REST APIs<br><br>Database:<br><br>* PostgreSQL<br><br>Tools:<br><br>* Git<br>* GitHub<br>* VS Code<br>* Postman<br><br># Currently Learning<br><br>* Advanced React.js<br>* Backend Development with Node.js & Express.js<br>* PostgreSQL<br>* Authentication & Authorization<br>* REST API Development<br>* Data Structures & Algorithms using Java<br>* System Design Fundamentals<br>* Docker and Deployment Basics<br><br># What I Am Working On<br><br>* Building Full Stack Web Applications<br>* Doctor Appointment Booking System<br>* FundWatch Transparency Platform<br>* Improving Backend Development Skills<br>* Practicing DSA in Java<br>* Strengthening Problem Solving Skills<br><br># What I Am Looking For<br><br>* Software Engineering Opportunities<br>* Full Stack Developer Internships<br>* Backend Development Roles<br>* Open Source Contributions<br>* Collaboration on Web Development Projects<br><br># Interests<br><br>* Software Engineering<br>* Backend Development<br>* Full Stack Development<br>* Problem Solving<br>* System Design<br>* AI-Powered Applications<br><br># GitHub README Requirements<br><br>Create a modern GitHub Profile README with:<br><br>* Professional introduction<br>* Animated typing banner<br>* About Me section<br>* Tech Stack section<br>* Currently Learning section<br>* Current Focus section<br>* Featured Projects section<br>* What I Am Looking For section<br>* GitHub Stats section<br>* Contribution Graph section<br>* Connect With Me section<br>* Clean developer-focused design<br>* Professional emojis and badges<br>* Recruiter-friendly formatting<br><br>The README should look like a modern software engineer profile and accurately represent my current skills and learning journey without exaggerating my experience level.<br>
 
-<p align="center">
-Full Stack Developer | Java & JavaScript Developer | CSE Student
-</p>
 
-<p align="center">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayush Patokar) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ayush Patokar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushpatokar25@gmail.com) 
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ayushpatokar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ayushpatokar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayushpatokar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+---
+[![](https://komarev.com/ghpvc/?username=ayushpatokar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-</p>
-
-## 👨‍💻 About Me
-
-- 🎓 Final-year Computer Science & Engineering student
-- 💻 building full-stack web applications
-- 🌱 Currently learning React.js, Node.js, Express.js and PostgreSQL
-- ☕ Comfortable with Java and currently practicing DSA
-- 🔧 Interested in backend development, REST APIs and databases
-- 🚀 Building projects to strengthen my software development skills
-- 🎯 Preparing for software engineering and full-stack development opportunities
-
-## 🎓 Education
-
-**Bachelor of Engineering / B.Tech in Computer Science & Engineering**
-
-- Final Year
-- Computer Science & Engineering
-
-  ## 🛠️ Tech Stack
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,nodejs,express" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Tools & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-</p>
-
-Languages
-├── Java
-├── JavaScript
-└── SQL
-
-Frontend
-├── HTML
-├── CSS
-├── JavaScript
-└── React
-
-Backend
-├── Node.js
-├── Express.js
-└── REST APIs
-
-Database
-└── PostgreSQL
-
-Tools
-├── Git
-├── GitHub
-└── VS Code
-
-## 💡 Core Skills
-
-- Java
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- REST APIs
-- PostgreSQL
-- Git & GitHub
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Problem Solving
-
-  ## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="YOUR_GITHUB_URL">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-## 💭 Quote
-
-> "Consistency beats intensity."
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
