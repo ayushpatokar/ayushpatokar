@@ -1,5 +1,29 @@
-# 💫 About Me:
-Generate a professional and modern GitHub Profile README for me using the following information.<br><br># Personal Information<br><br>Name: Ayush Patokar<br><br>Role: Final-Year Computer Science & Engineering Student<br><br>Career Goal: Software Engineer / Full Stack Developer<br><br>Location: India<br><br># About Me<br><br>I am a final-year Computer Science & Engineering student passionate about software development, problem solving, and building real-world applications. I enjoy learning modern web technologies and continuously improving my development skills.<br><br>I am currently focused on becoming a strong Full Stack Developer and Software Engineer by building projects, practicing Data Structures & Algorithms, and learning backend development.<br><br># Education<br><br>Bachelor of Engineering (B.E.) in Computer Science & Engineering<br><br>Final-Year Student<br><br># Tech Skills<br><br>Programming Languages:<br><br>* Java<br>* JavaScript<br>* SQL<br><br>Frontend:<br><br>* HTML<br>* CSS<br>* JavaScript<br>* React.js<br><br>Backend:<br><br>* Node.js<br>* Express.js<br>* REST APIs<br><br>Database:<br><br>* PostgreSQL<br><br>Tools:<br><br>* Git<br>* GitHub<br>* VS Code<br>* Postman<br><br># Currently Learning<br><br>* Advanced React.js<br>* Backend Development with Node.js & Express.js<br>* PostgreSQL<br>* Authentication & Authorization<br>* REST API Development<br>* Data Structures & Algorithms using Java<br>* System Design Fundamentals<br>* Docker and Deployment Basics<br><br># What I Am Working On<br><br>* Building Full Stack Web Applications<br>* Doctor Appointment Booking System<br>* FundWatch Transparency Platform<br>* Improving Backend Development Skills<br>* Practicing DSA in Java<br>* Strengthening Problem Solving Skills<br><br># What I Am Looking For<br><br>* Software Engineering Opportunities<br>* Full Stack Developer Internships<br>* Backend Development Roles<br>* Open Source Contributions<br>* Collaboration on Web Development Projects<br><br># Interests<br><br>* Software Engineering<br>* Backend Development<br>* Full Stack Development<br>* Problem Solving<br>* System Design<br>* AI-Powered Applications<br><br># GitHub README Requirements<br><br>Create a modern GitHub Profile README with:<br><br>* Professional introduction<br>* Animated typing banner<br>* About Me section<br>* Tech Stack section<br>* Currently Learning section<br>* Current Focus section<br>* Featured Projects section<br>* What I Am Looking For section<br>* GitHub Stats section<br>* Contribution Graph section<br>* Connect With Me section<br>* Clean developer-focused design<br>* Professional emojis and badges<br>* Recruiter-friendly formatting<br><br>The README should look like a modern software engineer profile and accurately represent my current skills and learning journey without exaggerating my experience level.<br>
+# 👋 Hi, I'm Ayush Patokar
+
+💻 **Full Stack Developer | React + Node.js + Express.js**
+🚀 Building **scalable web applications & REST APIs**
+🧠 Strong foundation in **Java, Learning DSA & problem solving**
+🗄️ Working with **PostgreSQL, database design & API development**
+🌱 Exploring **Authentication, Docker, Cloud & AI-powered applications**
+
+---
+
+## 🚀 About Me
+
+* 💻 Full Stack Developer focused on **React, Node.js & Express.js**
+* 🧠 Practicing **DSA with Java** and strengthening problem-solving skills
+* ⚡ Building **REST APIs, full-stack applications & database-driven systems**
+* 🔐 Learning **Authentication, Authorization, API Security & Validation**
+* 🗄️ Learning **PostgreSQL** for backend data management
+* 🌱 Exploring **Docker, Cloud Deployment, Redis & AI/LLM integration**
+
+---
+
+## 🎓 Education
+
+* 🎓 **B.Tech CSE** - RTMNU University, Nagpur | *2024-27*
+* 📚 Focused on **Software Development, DSA, Databases & Computer Science fundamentals**
+
 
 
 ## 🌐 Socials:
