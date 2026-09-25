@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer focused on **React, Node.js & Express.js**
+* 💻 Full Stack Developer focused on **MongoDB, React, Node.js & Express.js**
 * 🧠 Practicing **DSA with Java** and strengthening problem-solving skills
 * ⚡ Building **REST APIs, full-stack applications & database-driven systems**
 * 🔐 Learning **Authentication, Authorization, API Security & Validation**
